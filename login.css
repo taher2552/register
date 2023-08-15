@@ -238,7 +238,7 @@ input[type=number] {
     outline: none;
     cursor: pointer;
     padding-left: 0.88rem;
-    background-color: var(--white);
+    background:none;
 }
 
 .main-sports{
